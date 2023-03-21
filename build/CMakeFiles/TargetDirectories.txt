@@ -1,3 +1,0 @@
-/home/stvhuang/sccachbug/build/CMakeFiles/test.dir
-/home/stvhuang/sccachbug/build/CMakeFiles/edit_cache.dir
-/home/stvhuang/sccachbug/build/CMakeFiles/rebuild_cache.dir
