@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/stvhuang/sccachbug/build",
+  "command": "/usr/bin/clang++ -g -o CMakeFiles/test.dir/test.cc.o -c /home/stvhuang/sccachbug/test.cc",
+  "file": "/home/stvhuang/sccachbug/test.cc"
+}
+]
